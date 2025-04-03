@@ -50,18 +50,29 @@ Total Orders: XX,XXX
 Average Order Value: $XX.XX
 Best-Selling Product Category: Electronics (XX% of total sales)
 Worst-Performing Category: Office Supplies
+
+![Image](https://github.com/user-attachments/assets/5304f77e-0c7e-40d8-8e75-f245bb3ff687)
+
 [2] Sales Trends
 Highest Sales Month: November (Due to Black Friday & Cyber Monday)
 Lowest Sales Month: February
 Peak Sales Hours: 6 PM - 10 PM
+
+![Image](https://github.com/user-attachments/assets/e5cc0c37-77f3-471e-88c9-a8ed59fc477d)
+
 [3] Customer Analysis
 Returning Customers: XX%
 New Customers: XX%
 Highest Revenue Generating Region: North America
 Customer Satisfaction: Average rating XX/5
+
+![Image](https://github.com/user-attachments/assets/8b1b8a79-3c6c-47ef-9632-4d8665bc0aaa)
+
 [4] Inventory Insights
 Top Out-of-Stock Products: XYZ
 Products with High Return Rates: XYZ
 Best Performing Warehouse: XYZ
 Conclusion
 The Amazon Sales Analysis dashboard provides valuable insights into revenue trends, customer behavior, and product performance. With data-driven decisions, Amazon can optimize inventory, enhance customer satisfaction, and increase overall profitability.
+
+![Image](https://github.com/user-attachments/assets/5f609596-e22a-4e4b-a065-36eb39f6ca7c)
